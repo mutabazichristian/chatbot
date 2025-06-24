@@ -83,11 +83,11 @@ data/
 | Metric         | Value |
 |----------------|-------|
 | Training Loss  | 2.18  |
-| BLEU Score     | 0.42  |
+
 
 ## Citation
 
-If you use this project or the ReDial dataset in your research, please cite the original [ReDial paper](https://arxiv.org/abs/1809.01984).
+the ReDial dataset [ReDial paper](https://arxiv.org/abs/1809.01984).
 
 ## License
 

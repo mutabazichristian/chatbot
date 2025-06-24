@@ -1,0 +1,6 @@
+transformers==4.40.0
+tensorflow==2.15.0
+datasets==2.19.0
+gradio==4.22.0
+pandas==2.2.1
+numpy==1.26.4
